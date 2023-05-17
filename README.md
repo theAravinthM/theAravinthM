@@ -4,7 +4,7 @@
 
 ![Aravinth's github stats](https://github-readme-stats.vercel.app/api?username=theAravinthM&theme=radical&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aravinth437&layout=compact&theme=radical&show_icons=true)](https://github.com/theAravinthM/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theAravinthM&layout=compact&theme=radical&show_icons=true)](https://github.com/theAravinthM/github-readme-stats)
 
 
 <!-- COMMENTS (JUST IGNORE)-->
