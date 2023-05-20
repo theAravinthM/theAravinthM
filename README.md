@@ -1,4 +1,7 @@
-### Hey there 👋 I'm Aravinth
+<!--### Hey there 👋 I'm Aravinth-->
+
+![Typing SVG](https://readme-typing-svg.herokuapp.comfont=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hey+there+👋+%2CI'm+Aravinth;)
+
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: People call me Arav, AirWind and most of them often misspell my name Aravinth as Aravind 🙃
 
