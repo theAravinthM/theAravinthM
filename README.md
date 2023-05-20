@@ -1,5 +1,6 @@
 <!--### Hey there 👋 I'm Aravinth-->
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there+%2CI'm+Kiruthick;You+can+c%C3%B8ntact+me+via+email.;Hi+there%2C+I'm+3rd+year+CSE+student;Hi+there%2C+I+used+to+listen+music+&+stuffs.)
+<br>
 ![Typing SVG](https://readme-typing-svg.herokuapp.comfont=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hey+there+👋+%2CI'm+Aravinth;)
 
 - 😄 Pronouns: He/Him
