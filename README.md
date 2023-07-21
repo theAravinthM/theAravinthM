@@ -3,9 +3,36 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: People call me Arav, AirWind and most of them often misspell my name Aravinth as Aravind 🙃
 
+<!--
 ![Aravinth's github stats](https://github-readme-stats.vercel.app/api?username=theAravinthM&theme=radical&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theAravinthM&layout=compact&theme=radical&show_icons=true)](https://github.com/theAravinthM/github-readme-stats)
+
+-->
+
+
+
+## GitHub Stats
+
+ <div align="center">
+	<div>
+   <img width="70%" src="https://github-readme-stats.vercel.app/api?username=theAravinthM&show_icons=true&theme=tokyonight" />
+  </div>
+  <div>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=theAravinthM&theme=tokyonight" />
+  </div>
+  <div>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=theAravinthM&theme=tokyonight" />
+  </div>
+</div>
+
+
+<!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Lokeshwaran-M) -->
+
+[linkedin]: https://www.https://www.linkedin.com/in/aravinthm/
+
+
+
 
 
 <!-- COMMENTS (JUST IGNORE)-->
