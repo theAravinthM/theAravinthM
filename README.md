@@ -1,3 +1,4 @@
+<!--
 ### Hey there 👋 I'm Aravinth
 
 - 😄 Pronouns: He/Him
@@ -16,7 +17,7 @@
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=theAravinthM&theme=tokyonight" />
   </div>
 </div>
-
+-->
 
 
 <!--
