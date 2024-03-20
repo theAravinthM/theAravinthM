@@ -1,7 +1,9 @@
-### Hey there 👋 I'm Aravinth
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=00FF37&size=20&vCenter=true&height=18&lines=Hi+there,+I'm+Aravinth;I+am+passionate+towards+tech;I+love+Open+source;I+am+an+Ambivert;I+play+multiple+roles)](https://github.com/theAravinthM)
 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: People call me Arav, AirWind and most of them often misspell my name Aravinth as Aravind 🙃
+<!-- ### Hey there 👋 I'm Aravinth -->
+
+<!-- - 😄 Pronouns: He/Him -->
+<!-- - ⚡ Fun fact: People call me Arav, AirWind and most of them often misspell my name Aravinth as Aravind 🙃 -->
 
 ## GitHub Stats
 
