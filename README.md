@@ -5,19 +5,23 @@
 <!-- - 😄 Pronouns: He/Him -->
 <!-- - ⚡ Fun fact: People call me Arav, AirWind and most of them often misspell my name Aravinth as Aravind 🙃 -->
 
-## GitHub Stats
-
+## 📊 GitHub Stats 
  <div align="center">
 	<div>
-   <img width="70%" src="https://github-readme-stats.vercel.app/api?username=theAravinthM&show_icons=true&theme=tokyonight" />
+  	<img width="70%" src="https://github-readme-stats.vercel.app/api?username=theAravinthM&show_icons=true&theme=tokyonight" />
   </div>
   <div>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=theAravinthM&theme=tokyonight" />
+  	<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=theAravinthM&theme=tokyonight" />
   </div>
   <div>
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=theAravinthM&theme=tokyonight" />
+  	<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=theAravinthM&theme=tokyonight" />
   </div>
 </div>
+
+## 🏆 GitHub Trophies 
+![](https://github-profile-trophy.vercel.app/?username=theAravinthM&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
 
 
 <!--
